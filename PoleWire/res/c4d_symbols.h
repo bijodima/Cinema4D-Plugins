@@ -1,0 +1,1 @@
+enum { IDS_PW = 10000, _DUMMY_ELEMENT_ };
