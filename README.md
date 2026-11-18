@@ -8,6 +8,7 @@ Build pole-and-wire lines along splines using your own pole models. Includes ter
 
 - [Installation and user guide](PoleWire/README.md)
 - [Plugin source](PoleWire/)
+- [Watch the PoleWire tutorial on YouTube](https://youtu.be/XoqRJlL90O8)
 
 To install PoleWire, download this repository, copy the complete `PoleWire` folder into your Cinema 4D preferences `plugins` directory, and restart Cinema 4D. Open **Extensions > Pole Wire** or search for **Pole Wire** with **Shift+C**.
 

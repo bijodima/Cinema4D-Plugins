@@ -4,6 +4,12 @@ PoleWire is a Cinema 4D plugin for building pole-and-wire lines along splines. U
 
 The plugin appears in Cinema 4D as **Pole Wire**. It provides a manager window and embeds the generation code in a Python Generator object in the scene.
 
+## Video tutorial
+
+[![Watch the PoleWire tutorial on YouTube](https://img.youtube.com/vi/XoqRJlL90O8/hqdefault.jpg)](https://youtu.be/XoqRJlL90O8)
+
+[Watch the PoleWire tutorial on YouTube](https://youtu.be/XoqRJlL90O8).
+
 ## Features
 
 - Open, closed, and multi-segment spline routes.
