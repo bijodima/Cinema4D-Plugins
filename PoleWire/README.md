@@ -244,3 +244,7 @@ When switching lines or documents, explicitly load the intended generator again.
 | setup_core.py | Model bounds, rig creation, and setup helpers. |
 | preset_library.py | Preset project saving and import. |
 | res/ | Command icon and resource files. |
+
+## License
+
+PoleWire is licensed under the [MIT License](../LICENSE).
